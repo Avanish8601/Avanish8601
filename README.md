@@ -8,6 +8,8 @@
 - 💞️ python Data structures
   💞️ web scraping 
 - 💞️ classifiers using Machine learning
+- 💞️ work on Django framework.
+- 💞️ development tools- PYTHON,DJANGO,HTML,CSS,BOOTSTRAP,SQL,SQL LITE 
 
 
 How to reach me: my phone number and whatsapp is 9565306743,email savanish521@gmail.com, linkdin profile at https://www.linkedin.com/in/avanish-singh-4069a3145/
